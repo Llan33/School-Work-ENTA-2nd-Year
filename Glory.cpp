@@ -27,8 +27,6 @@ enum TileType{
     START,
 };
 
-TileType Tabuleiro[30];
-
 TileType Board[BoardSize];
 
 class Player{
@@ -976,5 +974,6 @@ int main(){
     Game();
 
     
+
 
 }
